@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AB54FEDB-12DD-4DB9-8B61-82C91B612F55}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SEDOLTest</RootNamespace>
-    <AssemblyName>SEDOLTest</AssemblyName>
+    <RootNamespace>SEDOLConsole</RootNamespace>
+    <AssemblyName>SEDOLConsole</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

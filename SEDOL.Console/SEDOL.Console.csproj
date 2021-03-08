@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB54FEDB-12DD-4DB9-8B61-82C91B612F55}</ProjectGuid>
+    <ProjectGuid>{529C4359-F29F-43B2-900B-B35152FC3198}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SEDOLConsole</RootNamespace>
-    <AssemblyName>SEDOLConsole</AssemblyName>
+    <RootNamespace>SEDOL.Console</RootNamespace>
+    <AssemblyName>SEDOL.Console</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

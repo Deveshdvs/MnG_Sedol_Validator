@@ -18,14 +18,13 @@ namespace SEDOLConsole
             while (keepLooping)
             {
                 Console.WriteLine("Please enter a SEDOL string to validate");
-                input = Console.ReadLine();
+                input = System.Console.ReadLine();
                 if (input.ToUpper() == "EXIT")
                 {
-                    keepLooping = false;
                     break;
                 }
 
-                ISedolValidationResult result = new SedolValidator().ValidateSedol(input);                
+                ISedolValidationResult result = new SedolValidator().ValidateSedol(input);
                 Console.WriteLine(string.Concat(result.InputString, "|", result.IsValidSedol, "|", result.IsUserDefined, "|", result.ValidationDetails));
                 Console.WriteLine();
             }

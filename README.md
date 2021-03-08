@@ -9,7 +9,7 @@ This is a sample application build to validate sedol string on certain rules.
 
 ### Projects
 * SEDOL - Intepedent project which can be consumed in other application in form of liberary or project. This liberary expose SedolValidator which can be consumed to validate SEDOL with ValidateSedol method.
-* SEDOLConsole - Dummy Console application which is being setup to get user input for SEDOL and return validation output.
+* SEDOLConsole - Dummy Console application which is being setup to get user input for SEDOL and return validation output. Type Exit to exit console
 
 ### Technologies
 SEDOL is based on .NET Framework 4.7.2 with Csharp 7

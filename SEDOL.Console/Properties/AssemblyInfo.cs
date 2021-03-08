@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SEDOLTest")]
+[assembly: AssemblyTitle("SEDOL.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SEDOLTest")]
+[assembly: AssemblyProduct("SEDOL.Console")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ab54fedb-12dd-4db9-8b61-82c91b612f55")]
+[assembly: Guid("529c4359-f29f-43b2-900b-b35152fc3198")]
 
 // Version information for an assembly consists of the following four values:
 //
